@@ -2,7 +2,7 @@ desired_area,recoded,neighboorhood
 Manhattan - East Side,Manhattan,
 Queens,Queens,
 Neighborhood,Manhattan,1
-Manhattan,Manhattan,1
+Manhattan,Manhattan,
 ,,
 Sunnyside Queens,Queens,
 anyplace,Any,
@@ -157,7 +157,7 @@ Jetson Heights Long Island,Queens,
 Manhattan near Village,Manhattan,1
 "Manhattan, Bronx East or West ","Bronx, Manhattan",
 90's-100's,Manhattan,
-Washington Heights or W 28,Manhattan,
+Washington Heights or W 28,Manhattan,1
 W 30'S,Manhattan,1
 This Area,Manhattan,1
 Manhattan- West,Manhattan,1
